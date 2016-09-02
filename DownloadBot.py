@@ -73,7 +73,7 @@ def handle(msg):
             bot.sendMessage(chat_id,str(e))
 
 ##############     ENTER YOUR TOKEN BELOW
-bot = telepot.Bot('__________________TTTTTTTTTTOOOOOOOOOOKKKKKKKKKKKEEEEEEEEEEEENNNNNNNNNNN__________________')
+bot = telepot.Bot('219724663:AAGLc50gRsEmgt-yfr0QD3sA6W-P2K6RsKY')
 bot
 bot.message_loop(handle)
 print ('\nDesigned by @Mowhamadrexa... \nhttps://www.linkedin.com/in/mrkazemi\nCybertech.ir\n\nI am listening ...')
